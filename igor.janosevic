@@ -1,1 +1,6 @@
 neki content, ali apdejtovan
+
+ucackao
+
+git pull origin master --allow-unrelated-histories
+git push origin master
