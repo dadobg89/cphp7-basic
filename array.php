@@ -1,11 +1,11 @@
 <?php
 
-$nesto = array('misa', 'zmaj', '985', '@', 'gmail', '.', 'com');
+$nesto = array('misha' 'zmaj' '985' 'gmail' 'com');
 
 function iteriraKrozNiz($niz){
-	foreach($niz as $deo){
+	foreach($niz => $deo){
 		echo $deo;
 	}
 }
 
-iteriraKrozNiz($nesto);
+iteriraKrozNiz();

@@ -1,0 +1,10 @@
+gut pull origin master - pre pocetka rada
+
+
+nakon gotovog posla
+
+git add .
+git commit -m "poruka koja opisuje promene"
+git push origin master
+
+https://github.com/ijanosevic/cphp7-basic/invitations
